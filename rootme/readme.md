@@ -1,6 +1,5 @@
  This page all about the google docking  which gives the access of the root server and port.
-
-
+ It's get the access to the root of the site.
 IP address 10.10.255.168
 
 nmap scan result open port 80 http and 22 ssh
