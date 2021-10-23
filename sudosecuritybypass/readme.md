@@ -1,3 +1,5 @@
+This file consistes of the sudoku user bypass the access of the device.
+
 IP address : 10.10.19.136
 
 for connection used ssh  at port 2222
