@@ -1,5 +1,5 @@
 find commond is the one of the best commond for finding directories and files
-
+We are finding find commond for the tmux which is a good terminal with extraction are stored.
 ## Be more specific 
 
 #1 Find all files whose name ends with ".xml"
